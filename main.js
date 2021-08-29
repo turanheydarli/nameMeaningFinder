@@ -25,7 +25,3 @@ form.addEventListener("submit", (e) => {
     e.preventDefault();
 });
 
-
-function displayMessages(message,type){
-
-}
